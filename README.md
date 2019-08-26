@@ -1,3 +1,4 @@
+![html](https://www.tutorialspoint.com/software_testing/images/software-testing.jpg)
 # SOFTWARE TESTING-A BASIC OVERVIEW
 
 *This simple website helps you to understand the basics of testing*.
@@ -34,4 +35,5 @@
 2. [Github Reference Material](https://dillinger.io)
 3. [My Github Account](https://github.com/Bhavya-123)
 
+![html](https://media.istockphoto.com/photos/thank-you-picture-id486133525)
 
