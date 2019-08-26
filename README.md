@@ -29,6 +29,8 @@
 - *Test Automation*
 - *Quality Check*
 
+![html](https://image.shutterstock.com/image-vector/word-cloud-software-testing-related-260nw-381153955.jpg)
+
 ### **References**
 
 1. [Software Testing Material](https://www.tutorialspoint.com/software_testing/index.htm)
