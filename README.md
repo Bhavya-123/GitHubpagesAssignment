@@ -1,4 +1,4 @@
-# SOFTWARE TESTING-A basic Overview
+# SOFTWARE TESTING-A BASIC OVERVIEW
 
 *This simple website helps you to understand the basics of testing*.
 
@@ -17,7 +17,7 @@
 # **Comparison of Testing Methods**
 
 |*Black-Box Testing*                           |*Grey-Box Testing*                              |*White-Box Testing*                   |
-|--------------------------------------------  |: --------------------------------------------: |:-------------------------------------|
+|:--------------------------------------------:|:--------------------------------------------:  |:-------------------------------------|
 |Performed by end users,testers and developers |Performed by end users,testers and developers   |Normally done by testers and developer| 
 |Not suited for algorithm testing              |Not suited for algorithm testing                |Suited for algorithm testing          |
                  
