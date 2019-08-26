@@ -1,6 +1,5 @@
-!(https://www.tutorialspoint.com/software_testing/images/software-testing.jpg)
 #SOFTWARE TESTING-A basic Overview
-----------------------------
+
 *This simple website helps you to understand the basics of testing*.
 
 ## **What is Testing?**
@@ -15,16 +14,13 @@
 .*Black Box Testing*
 .*Grey-Box*
 
-#**Comparison of Testing Methods**
+# **Comparison of Testing Methods**
 
-|*Black-Box Testing*     |*Grey-Box Testing*      |*White-Box Testing*       |
-|------------------------|------------------------|--------------------------|
-|Performed by end users, |Performed by end users, |Normally done by testers  |
-|testers and developers  |testers and developers  |and developers            |
-|------------------------|------------------------|--------------------------|
-|Not suited for algorithm|Not suited for algorithm|Suited for algorithm      |
-|testing                 |testing                 |testing                   |
-|------------------------|------------------------|--------------------------|
+|*Black-Box Testing*                           |*Grey-Box Testing*                              |*White-Box Testing*                   |
+|----------------------------------------------|------------------------------------------------|--------------------------------------|
+|Performed by end users,testers and developers |Performed by end users,testers and developers   |Normally done by testers and developer|  |----------------------------------------------|------------------------------------------------|------------------------------------- |
+|Not suited for algorithm testing              |Not suited for algorithm testing                |Suited for algorithm testing          |
+                 
 
 ## **Applications of Software testing**
 -*Cost effective Development*
@@ -34,8 +30,8 @@
 
 ###**References**
 
--[Testing Content](https://www.tutorialspoint.com/software_testing/index.htm)
--[Github Reference](https://dillinger.io)
--[My Github Account](https://github.com/Bhavya-123)
+1.[Software Testing Material](https://www.tutorialspoint.com/software_testing/index.htm)
+2.[Github Reference Material](https://dillinger.io)
+3.[My Github Account](https://github.com/Bhavya-123)
 
 
