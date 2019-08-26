@@ -11,9 +11,9 @@
 2. *Automation Testing*
 
 ## **Methods of Testing**
-. *White-Box Testing*
-. *Black Box Testing*
-. *Grey-Box*
+- *White-Box Testing*
+- *Black Box Testing*
+- *Grey-Box Testing*
 
 # **Comparison of Testing Methods**
 
@@ -34,7 +34,7 @@
 ### **References**
 
 1. [Software Testing Material](https://www.tutorialspoint.com/software_testing/index.htm)
-2. [Github Reference Material](https://dillinger.io)
+2. [Github Reference Material](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
 3. [My Github Account](https://github.com/Bhavya-123)
 
 ![html](https://media.istockphoto.com/photos/thank-you-picture-id486133525)
